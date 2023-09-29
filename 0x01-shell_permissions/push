@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "latest push"
+git commit -m "recent push"
 git push
